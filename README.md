@@ -1,6 +1,4 @@
 # Ticket-Exchange-Sentiment-Project
-A sentiment analysis of text data from a fan-to-fan BTS concert ticket exchange Twitter account:
-
 The aim of this project is to use sentiment analysis to get a sense of the answer to the following question: Is the experience of BTS fans who opt to use Twitter to trade concert tickets generally positive? 
 
 This project idea was born out of personal experience on the difficulty of getting tickets to attend the BTS shows held in Los Angeles and Las Vegas in 2021 and 2022 respectively. Due to overwhelming demand, numerous fans looking to attend the shows were unable to purchase tickets during the presale and general on-sale, being forced to turn to the secondary market to locate tickets. While many relied on well-established secondary marketplaces, others relied on social media to find tickets to purchase. Due to anecdotal evidence suggesting that some fans using social media to buy tickets were being scammed and reporting such scams in the social media accounts and groups to warn other users, I was interested in looking at the sentiment of tweets to see if negative tweets regarding these scams could be quantified.
@@ -11,4 +9,4 @@ Results were displayed in a pie chart designed using Python Matplotlib to visual
  
 In general, the classifier didn't find any evidence of widespread concert ticket scamming activity as measured by tweets classified as negative, but fans using social media to buy/sell/trade concert tickets should still proceed with caution. According to the results, the answer to the question posed above is that the experience of BTS fans using Twitter to trade concert tickets was found to be generally positive, drawn from sentiment analysis of tweets from a particular trading Twitter account as a proxy.
 
-This repository included the present README file and an PDF file showing the Python code and results.
+This repository included the present README file and a Jupyter Notebook with the Python code and results.
