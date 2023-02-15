@@ -1,4 +1,4 @@
-# Ticket-Exchange-Sentiment-Project
+# Ticket-Exchange-Sentiment-Analysis
 The aim of this project is to use sentiment analysis to get a sense of the answer to the following question: Is the experience of BTS fans who opt to use Twitter to trade concert tickets generally positive? 
 
 This project idea was born out of personal experience on the difficulty of getting tickets to attend the BTS shows held in Los Angeles and Las Vegas in 2021 and 2022 respectively. Due to overwhelming demand, numerous fans looking to attend the shows were unable to purchase tickets during the presale and general on-sale, being forced to turn to the secondary market to locate tickets. While many relied on well-established secondary marketplaces, others relied on social media to find tickets to purchase. Due to anecdotal evidence suggesting that some fans using social media to buy tickets were being scammed and reporting such scams in the social media accounts and groups to warn other users, I was interested in looking at the sentiment of tweets to see if negative tweets regarding these scams could be quantified.
