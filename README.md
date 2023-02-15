@@ -11,4 +11,4 @@ Results were displayed in a pie chart designed using Python Matplotlib to visual
  
 In general, the classifier didn't find any evidence of widespread concert ticket scamming activity as measured by tweets classified as negative, but fans using social media to buy/sell/trade concert tickets should still proceed with caution. According to the results, the answer to the question posed above is that the experience of BTS fans using Twitter to trade concert tickets was found to be generally positive, drawn from sentiment analysis of tweets from a particular trading Twitter account as a proxy.
 
-This repository included the present README file and an HTML file showing the Python code and results.
+This repository included the present README file and an PDF file showing the Python code and results.
